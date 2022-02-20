@@ -6,6 +6,9 @@ Node.JS
 MongoDB
 # How to use
 Install:
+
 npm install
+
 Run server and client files:
+
 npm run dev
